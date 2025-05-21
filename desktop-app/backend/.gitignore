@@ -1,0 +1,19 @@
+# Python venv
+venv/
+__pycache__/
+*.pyc
+
+# Mac/Linux system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE configs
+.vscode/
+
+# Logs or outputs
+*.log
+*.mp3
+*.jpg
+*.png

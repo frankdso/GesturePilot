@@ -1,0 +1,5 @@
+# Ignore release binaries
+desktop-app/release/
+desktop-app/python-runtime/
+*.exe
+*.dll
